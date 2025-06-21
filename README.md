@@ -1,18 +1,63 @@
-# 💫 About Me:
-👋 Hi, I’m Sahil Thadani<br>I’m a passionate software developer with a strong focus on backend engineering, system design, and AI-powered solutions. I enjoy building scalable, production-grade systems and constantly improving my problem-solving and architectural thinking.<br><br>💼 What I Do<br>Backend Development: I build robust backend systems using Java (Spring Boot), Python (FastAPI), and Node.js, following clean architecture and modular design principles.<br><br>Frontend Development: I work with React.js and Next.js to create seamless user interfaces and admin dashboards.<br><br>Cloud & DevOps: Experienced with Azure Services, Azure Kubernetes Service (AKS), Docker, and CI/CD pipelines to manage scalable cloud-native deployments.<br><br>Messaging & Search: Integrated Solace PubSub+ for event-driven communication and Elasticsearch for fast, scalable querying.<br><br>AI & Generative AI: Building AI-enabled features including RAG-based chatbots using Azure AI Search, Python, and vector embeddings. Actively exploring how Generative AI can enhance developer productivity and system intelligence.<br><br>Data & Databases: Worked with PostgreSQL, Cosmos DB, and built dynamic query systems powered by NLP.<br><br>System Design: Strong grasp of Low-Level Design (LLD), High-Level Design (HLD), object-oriented principles, and microservices architecture.
+# Hi, I’m **Sahil Thadani**
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thesahilthadani) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theSahilThadani&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=theSahilThadani&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theSahilThadani&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I design and build **scalable backend systems** and **AI‑powered products** that solve real‑world problems. My current focus areas are distributed microservices, Generative AI, and clean system design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theSahilThadani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 What I Do
+
+* **Backend Engineering:** Java (Spring Boot), Python (FastAPI), Node.js | Microservices, event‑driven architectures
+* **Frontend & UI:** React.js, Next.js | Creating seamless dashboards and admin tools
+* **Cloud & DevOps:** Azure (AKS, AD, AI Search), Docker, Kubernetes | CI/CD for cloud‑native deployments
+* **Data & Messaging:** PostgreSQL, Cosmos DB, Redis, Elasticsearch, Kafka, Solace PubSub+
+* **Generative AI:** RAG pipelines, vector search, LLM integrations
+* **System Design:** LLD/HLD, design patterns, performance optimizations
+
+---
+
+## 🔧 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+* End‑to‑end **Generative AI** pipelines (RAG, vector DBs, prompt engineering)
+* High‑throughput **event streaming** with Kafka & Solace
+* Advanced **system design** patterns for low‑latency services
+
+---
+
+## 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theSahilThadani\&theme=catppuccin_mocha\&hide_border=true\&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=theSahilThadani\&theme=catppuccin_mocha\&hide_border=true)
+
+---
+
+## 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thesahilthadani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/theSahilThadani/)
+[![Scaler](https://img.shields.io/badge/Scaler-4A90E2?style=for-the-badge\&logo=data\:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IiM0QTkwRTIiIHJ4PSIyIi8+PC9zdmc+)](https://www.scaler.com/academy/profile/536f30ae77d6)
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=theSahilThadani\&label=Profile%20Visits\&mode=number)
+
+---
+
+> **Build. Learn. Grow.**
+
+Always open to collaboration and learning—feel free to explore my repositories or reach out!
