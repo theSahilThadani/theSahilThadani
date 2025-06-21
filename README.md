@@ -9,7 +9,7 @@ I'm a passionate Software Developer focused on building reliable, scalable, and 
 * **Backend Engineering:** Java (Spring Boot), Python (FastAPI), Node.js, Express | REST APIs, Microservices, Event-Driven Systems
 * **Frontend Development:** React.js, Next.js, TypeScript, TailwindCSS | Admin Dashboards & Dynamic UI
 * **Cloud & DevOps:** Azure (AKS, AD, AI Search), AWS (EC2, S3), Docker, Kubernetes | CI/CD & Infra Automation
-* **Messaging & Search:** Solace PubSub+, Kafka, RabbitMQ, Elasticsearch | Real-time pipelines & fast querying
+* **Messaging & Search:** Solace PubSub+, Kafka, Elasticsearch | Real-time pipelines & fast querying
 * **AI & GenAI:** Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Azure OpenAI, LLM integration
 * **Databases:** PostgreSQL, MySQL, Cosmos DB, Redis, MongoDB, Neo4j | Scalable schema & indexing strategies
 * **System Design:** Strong knowledge of HLD/LLD, Design Patterns, OOP Principles, Load Balancing, and Fault Tolerance
@@ -61,7 +61,6 @@ I'm a passionate Software Developer focused on building reliable, scalable, and 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/theSahilThadani/)
 [![Scaler](https://img.shields.io/badge/Scaler-4A90E2?style=for-the-badge\&logo=data\:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGZpbGw9IiM0QTkwRTIiIHJ4PSIyIi8+PC9zdmc+)](https://www.scaler.com/academy/profile/536f30ae77d6)
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=theSahilThadani\&label=Profile%20Visits\&mode=number)
 
 ---
 
