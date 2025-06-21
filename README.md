@@ -1,43 +1,49 @@
 # Hi, I’m **Sahil Thadani**
 
-I design and build **scalable backend systems** and **AI‑powered products** that solve real‑world problems. My current focus areas are distributed microservices, Generative AI, and clean system design.
+I'm a passionate Software Developer focused on building reliable, scalable, and intelligent systems. My interests span **Backend Engineering**, **System Design**, and **Generative AI** — with a strong emphasis on real-world impact through robust architecture and clean code.
 
 ---
 
 ## 💼 What I Do
 
-* **Backend Engineering:** Java (Spring Boot), Python (FastAPI), Node.js | Microservices, event‑driven architectures
-* **Frontend & UI:** React.js, Next.js | Creating seamless dashboards and admin tools
-* **Cloud & DevOps:** Azure (AKS, AD, AI Search), Docker, Kubernetes | CI/CD for cloud‑native deployments
-* **Data & Messaging:** PostgreSQL, Cosmos DB, Redis, Elasticsearch, Kafka, Solace PubSub+
-* **Generative AI:** RAG pipelines, vector search, LLM integrations
-* **System Design:** LLD/HLD, design patterns, performance optimizations
+* **Backend Engineering:** Java (Spring Boot), Python (FastAPI), Node.js, Express | REST APIs, Microservices, Event-Driven Systems
+* **Frontend Development:** React.js, Next.js, TypeScript, TailwindCSS | Admin Dashboards & Dynamic UI
+* **Cloud & DevOps:** Azure (AKS, AD, AI Search), AWS (EC2, S3), Docker, Kubernetes | CI/CD & Infra Automation
+* **Messaging & Search:** Solace PubSub+, Kafka, RabbitMQ, Elasticsearch | Real-time pipelines & fast querying
+* **AI & GenAI:** Retrieval-Augmented Generation (RAG), Prompt Engineering, LangChain, Azure OpenAI, LLM integration
+* **Databases:** PostgreSQL, MySQL, Cosmos DB, Redis, MongoDB, Neo4j | Scalable schema & indexing strategies
+* **System Design:** Strong knowledge of HLD/LLD, Design Patterns, OOP Principles, Load Balancing, and Fault Tolerance
 
 ---
 
-## 🔧 Tech Stack
+## ⚙️ Tools & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
 ## 🌱 Currently Exploring
 
-* End‑to‑end **Generative AI** pipelines (RAG, vector DBs, prompt engineering)
-* High‑throughput **event streaming** with Kafka & Solace
-* Advanced **system design** patterns for low‑latency services
+* Advanced architectures in **Generative AI** (RAG, vector DBs, OpenAI, LangChain)
+* Event-driven, low-latency systems with **Kafka** and **Solace**
+* Deep system design strategies and distributed transactions
 
 ---
 
@@ -45,10 +51,11 @@ I design and build **scalable backend systems** and **AI‑powered products** th
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=theSahilThadani\&theme=catppuccin_mocha\&hide_border=true\&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=theSahilThadani\&theme=catppuccin_mocha\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theSahilThadani\&theme=catppuccin_mocha\&hide_border=true\&layout=compact)
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thesahilthadani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/theSahilThadani/)
@@ -58,6 +65,6 @@ I design and build **scalable backend systems** and **AI‑powered products** th
 
 ---
 
-> **Build. Learn. Grow.**
+> **"Build. Learn. Grow."**
 
-Always open to collaboration and learning—feel free to explore my repositories or reach out!
+Always exploring new technologies and solving meaningful problems. Feel free to explore my projects or connect!
